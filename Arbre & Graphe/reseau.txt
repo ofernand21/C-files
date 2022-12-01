@@ -1,0 +1,18 @@
+10
+6
+ouaga
+bobo
+koudougou
+ziniaré
+ouayigouya
+timnonre
+boussé
+koupela
+zorgo
+pô
+0 2
+2 4
+5 6
+3 4
+7 9
+8 9
